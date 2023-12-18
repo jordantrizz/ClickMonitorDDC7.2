@@ -1,5 +1,6 @@
 # ClickMonitorDDC 7.2
-This information was pulled from the official website (<https://www.clickmonitorddc.bplaced.net/>) before it went down. Saved here for reference.
+* This information was pulled from the official website (<https://www.clickmonitorddc.bplaced.net/>) before it went down. Saved here for reference.
+* Added portable installation at files/ClickMonitorDDC_7_2.zip
 
 ## Information
 Click taskbar notification icons to adjust the real monitor-backlight-brightness/contrast
